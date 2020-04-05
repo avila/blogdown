@@ -1,0 +1,7 @@
+"0","# data needs to be downloaded by hand from https://www.opentable.com/state-of-industry
+df_ot <- read_csv(""./data/state_of_industry_data.csv"") %>%
+  pivot_longer( -c(Type, Name), names_to = ""Date"", values_to = ""Value"") %>% 
+  mutate(Date = as.Date(Date, format=""%m/%d""))
+"
+"2","Error: './data/state_of_industry_data.csv' does not exist in current working directory ('/home/mavila/devel/blog/content/corona').
+"

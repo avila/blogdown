@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586050874055.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2700839508",
+    "id" : "9334EB2F",
+    "lastKnownWriteTime" : 1586050580,
+    "last_content_update" : 1586050580,
+    "path" : "~/devel/blog/content/about.md",
+    "project_path" : "content/about.md",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
